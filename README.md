@@ -1,1 +1,1 @@
-# smallProgramsPy
+# Маленькие программы на Python3
